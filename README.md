@@ -1,3 +1,3 @@
 #
-Resoluçaõ do Desafio Controle Fluxo.
+Resoluçaõ do Desafio Controle de Fluxo.
 #
